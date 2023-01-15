@@ -124,3 +124,10 @@ nav li a{
     color: #727272;
     
 }
+
+.sponsors{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+}
