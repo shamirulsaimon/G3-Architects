@@ -1,0 +1,26 @@
+/* header section style */
+nav{
+    display:flex;
+    justify-content:space-between;
+    margin:50px 200px;
+}
+nav ul{
+    display:flex;
+    align-items:center;
+}
+nav li{
+    list-style:none;
+    margin-left:50px;
+}
+nav li a{
+    text-decoration: none;
+    color: #424242;
+}
+
+/*            Quick List Of Our Feature  Style  */
+
+.quick-list-images{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
